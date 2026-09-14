@@ -1,0 +1,109 @@
+{
+"personality": {
+"curiosity": {
+"strength": null
+},
+"maker_mindset": {
+"strength": null,
+"evidence": []
+},
+"analytical_thinking": {
+"strength": null
+}
+},
+
+"soft_skills": {
+"autonomie": {
+"strength": null,
+"evidence": []
+},
+"résolution_de_problèmes": {
+"strength": null,
+"evidence": []
+},
+"capacité_d_apprentissage": {
+"strength": null,
+"evidence": []
+},
+"rigueur": {
+"strength": null,
+"evidence": []
+},
+"créativité": {
+"strength": null,
+"evidence": []
+},
+"capacité_d_analyse": {
+"strength": null,
+"evidence": []
+}
+},
+
+"hobbies": [
+{
+"interest": "",
+"description": "",
+"evidence": [],
+"signals": [],
+"motivations": [],
+"industry_affinities": [],
+"industry_knowledge": []
+}
+],
+
+"values": {},
+
+"motives": {
+"comprendre_les_systèmes": {
+"strength": null
+},
+"construire_des_objets_concrets": {
+"strength": null
+},
+"concevoir_des_solutions_sur_mesure": {
+"strength": null
+},
+"maîtriser_un_processus_de_bout_en_bout": {
+"strength": null
+},
+"apprendre_de_nouvelles_compétences": {
+"strength": null
+},
+"améliorer_des_systèmes_existants": {
+"strength": null
+}
+},
+
+"goals": {},
+
+"industry_interests": [
+{
+"industry": "",
+"strength": null,
+"reason": ""
+}
+],
+
+"intellectual_interests": [
+{
+"topic": "",
+"strength": null
+}
+],
+
+"cognitive_style": {
+"systematic_thinking": {
+"strength": null,
+"description": "",
+"evidence": []
+},
+"iterative_refinement": {
+"strength": null,
+"evidence": []
+}
+},
+
+"high_level_traits": [],
+
+"recurring_patterns": []
+}

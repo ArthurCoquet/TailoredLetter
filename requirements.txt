@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+beautifulsoup4
+requests
+requests[socks]
+PyYAML
+python-dotenv
+openai
+qdrant-client[fastembed]
+langchain-huggingface
+torch
+torchvision
+sentence-transformers
+pydantic-settings
